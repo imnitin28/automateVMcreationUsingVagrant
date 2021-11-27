@@ -1,4 +1,4 @@
-* What is Vagrant ? <br/>
+## What is Vagrant ? <br/>
 - Vagrant is a automation tool to manage VM lifecycle
 - Vagrant Lifecycle includes 
     - creating 
@@ -9,7 +9,7 @@
 
 In simple words, Vagrant is a VM automation tool. <br/>
 
-* Why Vagrant? and VM problems. <br/>
+## Why Vagrant? and VM problems. <br/>
 
 OS intallations are time consuming.<br/>
 A lot of repeated manual steps. <br/>
@@ -28,11 +28,11 @@ Tough to replicate for multi VM infrastructure. <br/>
 ![Vagrant-arch](https://user-images.githubusercontent.com/76727343/143680263-e2fe13aa-c832-4cf6-9759-96c89ad1c66e.png)
 
 
-* Pre-Requisite for vagrant setup
+## Pre-Requisite for vagrant setup
 - Vitualization Technology Enabled in BIOS
 - Vagrant tool
 - Hypervisor like Oracle Virtualbox
 - CLI (GIT bash/CMD prompt/Terminal)
 
-* Get Vagrant boxes from here, <br/>
+## Get Vagrant boxes from here, <br/>
 https://app.vagrantup.com/boxes/search
