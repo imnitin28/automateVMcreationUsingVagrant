@@ -23,9 +23,8 @@ Tough to replicate for multi VM infrastructure. <br/>
 - Vagrant commands ro manage VMs
 - Provisioning VM/Executing commands and scripts.
 
-x-special/nautilus-clipboard
-copy
-file:///home/knoldus/Desktop/vagrant-image.odg
+[vagrant-image.odg](https://github.com/imnitin28/automaticVMusingVagrant/files/7611657/vagrant-image.odg)
+
 
 * Pre-Requisite for vagrant setup
 - Vitualization Technology Enabled in BIOS
