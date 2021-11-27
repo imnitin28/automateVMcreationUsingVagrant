@@ -15,7 +15,7 @@ OS intallations are time consuming.<br/>
 A lot of repeated manual steps. <br/>
 Tough to replicate for multi VM infrastructure. <br/>
 
-* Benefit of Vagrant : 
+#### Benefit of Vagrant : 
 - No OS installation
 - Create VM using Images(vagrant boxes)
 - Manage Vm with a Vagrantfile
