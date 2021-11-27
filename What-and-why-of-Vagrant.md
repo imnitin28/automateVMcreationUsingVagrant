@@ -23,7 +23,7 @@ Tough to replicate for multi VM infrastructure. <br/>
 - Vagrant commands ro manage VMs
 - Provisioning VM/Executing commands and scripts.
 
-[vagrant-image.odg](https://github.com/imnitin28/automaticVMusingVagrant/files/7611657/vagrant-image.odg)
+![Vagrant-arch](https://user-images.githubusercontent.com/76727343/143680263-e2fe13aa-c832-4cf6-9759-96c89ad1c66e.png)
 
 
 * Pre-Requisite for vagrant setup
