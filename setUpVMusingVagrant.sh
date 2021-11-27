@@ -5,7 +5,8 @@ for i in centOS ubuntu; do mkdir -p workspace/$i; done
 echo "============= workspace created =============="
 cd workspace/ubuntu
 #initialize your VM by mentioning box name
-echo "============= Initializing vm using ubuntu box ==============="
+echo "============= Initializing vm using boxName ==============="
+# replace boxname with box from vagrant-cloud
 vagrant init <boxName> 
 #run the initialized box.
 echo "============= start and provision the vagrant environment =================="
