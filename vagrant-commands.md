@@ -1,3 +1,4 @@
+* vagrant --help
 
 Usage: vagrant [options] <command> [<args>]
 
