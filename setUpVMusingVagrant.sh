@@ -6,8 +6,8 @@ echo "============= workspace created =============="
 cd workspace/ubuntu
 #initialize your VM by mentioning box name
 echo "============= Initializing vm using boxName ==============="
-# replace boxname with box from vagrant-cloud
-vagrant init ubuntu/trusty64
+# replace boxname with box from vagrant-cloud e.g 'ubuntu/trusty64'
+vagrant init <boxname>
 #run the initialized box.
 echo "============= start and provision the vagrant environment ==============="
 vagrant up
