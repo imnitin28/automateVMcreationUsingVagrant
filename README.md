@@ -1,5 +1,11 @@
 # automaticVMusingVagrant
-
+## What's inside setUpVagrant.sh? <br/>
+With this script we will create <br/>
+  - workspace for our VM 
+  - initialize a vagrant box
+  - a index.html file and run that using apache2 in our VM
+  - a bootstrap.sh file and provision it to Vagrantfile automatically.
+  - reload the VM after provisioning and vagrant ssh to run index.html file
 ## How to use
 Make sure you have virtual box installed in your system <br/>
 (You can skip if already installed)<br/>
