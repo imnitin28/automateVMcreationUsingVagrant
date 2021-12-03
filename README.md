@@ -1,4 +1,4 @@
-# automaticVMusingVagrant
+# setupVMcreationUsingVagrant
 ## What's inside setUpVMusingVagrant.sh? <br/>
 With this script we will create <br/>
   - workspace for our VM 
