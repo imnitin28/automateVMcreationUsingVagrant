@@ -1,5 +1,5 @@
 # automaticVMusingVagrant
-## What's inside setUpVagrant.sh? <br/>
+## What's inside setUpVMusingVagrant.sh? <br/>
 With this script we will create <br/>
   - workspace for our VM 
   - initialize a vagrant box
